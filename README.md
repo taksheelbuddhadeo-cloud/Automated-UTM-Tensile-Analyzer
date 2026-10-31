@@ -1,6 +1,3 @@
-# Automated-UTM-Tensile-Analyzer
-Automated Python pipeline for processing raw UTM load-displacement exports into engineering stress-strain curves and ASTM E8 mechanical properties.
-
 # Automated UTM Tensile Test Analyzer
 
 An end-to-end Python data-processing pipeline that converts raw Universal Testing Machine (UTM) load-displacement CSV exports into cleaned engineering stress-strain datasets, extracts key mechanical properties, and generates publication-grade figures.
